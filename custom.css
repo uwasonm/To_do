@@ -1,0 +1,12 @@
+.fz-2 {
+    font-size:2rem;
+}
+
+.btn-danger{
+    float : right;
+}
+
+.change{
+    text-decoration: line-through;
+    background-color: rgb(11, 121, 155)
+}   
